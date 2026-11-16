@@ -1,0 +1,13 @@
+{
+  "name": "auramatrix",
+  "displayName": "AuraMatrix",
+  "version": "0.5.0",
+  "description": "LLM API token prices and GPU rental prices, each with its source and date. No key, no account.",
+  "author": { "name": "AuraMatrix", "email": "hello@auramatrix.ai", "url": "https://auramatrix.ai" },
+  "homepage": "https://auramatrix.ai/connect?ref=cursor-plugin",
+  "repository": "https://github.com/dadaobear-glitch/auramatrix-mcp",
+  "license": "MIT",
+  "logo": "logo.png",
+  "keywords": ["mcp", "llm", "pricing", "tokens", "gpu", "cloud", "cost"],
+  "mcpServers": "mcp.json"
+}
