@@ -4,8 +4,15 @@
   "title": "AuraMatrix",
   "description": "LLM API token prices and GPU rental prices, each with its source and date. No key, no account.",
   "version": "0.5.0",
+  "repository": {
+    "url": "https://github.com/dadaobear-glitch/auramatrix-mcp",
+    "source": "github"
+  },
   "websiteUrl": "https://auramatrix.ai/connect?ref=mcp-registry",
   "remotes": [
-    { "type": "streamable-http", "url": "https://auramatrix.ai/mcp" }
+    {
+      "type": "streamable-http",
+      "url": "https://auramatrix.ai/mcp"
+    }
   ]
 }
